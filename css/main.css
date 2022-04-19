@@ -120,7 +120,7 @@ a{
     border-radius: 20px;
     transition: 0.8s;
 }
-@media (min-width: 375px) {
+@media (max-width: 375px) {
     .header .container img{
       width: 100px;
     }
